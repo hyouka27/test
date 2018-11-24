@@ -1,0 +1,9 @@
+{
+  "color": "#82b92c",
+  "number": 123,
+  "object": {
+    "a": "b",
+    "c": "d",
+    "e": "f"
+  "string":"ninja"
+  }
